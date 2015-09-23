@@ -1,0 +1,15 @@
+{
+  "name": "peer_node_00",
+  "version": "1.0.0",
+  "description": "peer node 00",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "liz piet",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
